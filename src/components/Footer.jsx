@@ -30,7 +30,7 @@ const Footer = () => {
               <div className="h-16 w-16 rounded-full overflow-hidden bg-white p-1">
                 <img src="/img/logo.png" alt="Maa Karma Logo" className="h-full w-full object-contain" />
               </div>
-              <span className="text-xl font-bold text-white">Maa Karma</span>
+              <span className="text-xl font-bold text-white">Maa Karmaa Global Engineering LLP</span>
             </Link>
             <p className="mt-4 text-sm">
               Leading the way in industrial construction and infrastructure development with expertise in silos, chimneys, and bridge piers.
