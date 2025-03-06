@@ -9,19 +9,23 @@ const About = () => {
           <div className="space-y-6 text-gray-700 text-base md:text-lg text-center" style={{ paddingLeft: '10%', paddingRight: '10%' }}>
             <p>
               We are pleased to introduce <b>M/S.</b> <b style={{ color: 'hsl(360, 100%, 39%)' }}>MAA KARMAA</b>
-              <b style={{ color: 'navy' }}> GLOBAL ENGINEERING LLP.</b>, a company comprising dynamic and experienced engineers specializing in construction and equipment technology. Our company operates in various fields of civil and mechanical construction. Our parent company is <b>M/S.</b> <b style={{ color: 'hsl(360, 100%, 39%)' }}>KARMA </b><b style={{ color: 'navy' }}>TECH</b><b>.</b>
+              <b style={{ color: 'navy' }}> GLOBAL ENGINEERING LLP</b> (<b>MKGEL</b>), a company led by <b>dynamic and experienced engineers</b> specializing in <b>construction and equipment technology</b>. Operating in various sectors of <b>civil and mechanical construction</b>, we are committed to delivering <b>high-quality and innovative engineering solutions</b>. Our parent company is <b>M/S.</b> <b style={{ color: 'hsl(360, 100%, 39%)' }}>KARMA </b><b style={{ color: 'navy' }}>TECH</b>.
             </p>
             
             <p>
-              We are the pioneer company in INDIA to use advanced Slipform Technology for fast and safe construction of <strong>Chimney, Silo, and High Rise Structures</strong>. We are a leading manufacturer and exporter of <strong>Heavy Lifting Equipment (Hydraulic-Tank Lifting Jacks/ Tank Jacking System) and Slipform Equipment</strong>.
+              As <b>pioneers in Slipform Technology in India</b>, we specialize in the fast and safe construction of <b>RCC straight & taper chimneys</b>, <b>clinker silos</b>, <b>cement silos</b>, <b>fly ash silos</b>, <b>overhead water tanks</b>, <b>intake wells</b>, and <b>bridge piers</b>. Additionally, we are a leading manufacturer and exporter of <b>Heavy Lifting Equipment</b> (<b>Hydraulic Tank Lifting Jacks/ Tank Jacking Systems</b>) and <b>Slipform Equipment</b> (<b>12MT</b>, <b>18MT</b> & <b>25MT</b>).
             </p>
             
             <p>
-              The Director of the company has 27 years of experience in the Chimney and silo field, including some projects with Reliance Industries Ltd., Mangalore Refinery Petrochemicals Ltd, Essar, Adani Power, Ashoka Buildcon Ltd., and many more.
+              Our <b>Director brings 27 years of expertise</b> in the chimney and silo construction sector, having contributed to prestigious projects with industry leaders such as <b>Reliance Industries Ltd.</b>, <b>Mangalore Refinery Petrochemicals Ltd.</b>, <b>Essar</b>, <b>Adani Power</b>, <b>Ashoka Buildcon Ltd.</b>, and many more.
             </p>
             
             <p>
-              <b>MKGEL</b> has added to its achievements some of the modern and innovative building construction in various locations in PAN INDIA. We provide contracting services for any kind of industrial construction and undertake commercial and residential ventures as well. We have worked on various industrial projects: <b style={{ textTransform: 'capitalize' }}>cement factories, float glass factories, power plants, pharmaceuticals, glassware, fertilizers, and biogas</b>, among many more. We have vast experience in handling large-scale projects.
+              <b>MKGEL</b> has successfully executed <b>modern and innovative construction projects</b> across India. Our extensive portfolio includes <b>industrial</b>, <b>commercial</b>, and <b>residential construction</b>, with expertise in <b>cement factories</b>, <b>float glass factories</b>, <b>power plants</b>, <b>pharmaceuticals</b>, <b>glassware</b>, <b>fertilizers</b>, and <b>biogas projects</b>. Our vast experience in handling <b>large-scale projects</b> enables us to meet challenging deadlines with <b>precision</b>, <b>quality</b>, and <b>efficiency</b>.
+            </p>
+
+            <p>
+              We are dedicated to <b>client satisfaction</b>, <b>safety</b>, and <b>excellence in engineering</b>. With a <b>proactive approach</b>, <b>cutting-edge technology</b>, and a <b>commitment to innovation</b>, we continue to build a strong foundation for the future.
             </p>
           </div>
         </div>

@@ -1,5 +1,5 @@
 import { Link, useNavigate, useLocation } from 'react-router-dom'
-import { FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaFileAlt } from 'react-icons/fa';
 
 const Footer = () => {
   const navigate = useNavigate();
@@ -81,6 +81,16 @@ const Footer = () => {
                   className="hover:text-white transition-colors"
                 >
                   Contact
+                </a>
+              </li>
+              <li>
+                <a 
+                  href="/Company Profile Maa Karmaa 21-02-2025.pdf" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors flex items-center space-x-2"
+                >
+                  <span>Company Profile</span>
                 </a>
               </li>
             </ul>
